@@ -10,7 +10,7 @@ export default function Navbar() {
     ["/rooms", "Stay"],
     ["/gallery", "Gallery"],
     ["/#experience", "Experience"],
-    ["/#story", "Our story"],
+    ["/about", "About"],
     ["/contact", "Contact"]
   ];
 
